@@ -43,7 +43,7 @@ class _CameraPageState extends State<CameraPage> {
                   }
                 },
                 onVideoDone: (value) {
-                  log('LOG HASIL 2: ' + value);
+                  log('LOG HASIL 2: $value');
                 },
               ),
             ),

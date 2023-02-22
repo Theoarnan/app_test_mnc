@@ -4,7 +4,6 @@ import 'package:app_test_mnc/common/utils/constants.dart';
 import 'package:app_test_mnc/common/utils/formatter.dart';
 import 'package:app_test_mnc/common/utils/themes.dart';
 import 'package:app_test_mnc/news/models/news_model.dart';
-import 'package:app_test_mnc/news/presentation/bloc/news_bloc_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
